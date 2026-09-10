@@ -43,6 +43,7 @@ Power BI
 Management Dashboard
 ↓
 Insights & Recommendations
+```
 
 ## Business Model
 * **Company**: MadeUP
@@ -92,17 +93,49 @@ Insights & Recommendations
 
 ## Project Structure
 ```text
+MadeUP-FPA-Project/
+│
+├── README.md
+│
 ├── 01_Business_Requirements/
 │   ├── Business_Model.md
-│   └── KPI_Definitions.md
+│   ├── KPI_Definitions.md
+│   └── FP&A_Assumptions.md
+│
+├── 02_Data/
+│   ├── Raw/
+│   ├── SQL_Exports/
+│   └── PowerBI_Exports/
+│
+├── 03_SQL/
+│   ├── 01_Create_Database.sql
+│   ├── 02_Create_Tables.sql
+│   ├── 03_Load_Data.sql
+│   ├── 04_Analysis.sql
+│   └── 05_Validation.sql
+│
+├── 04_Excel/
+│   └── MadeUP_FPA_Model.xlsx
+│
+├── 05_PowerBI/
+│   └── MadeUP_FPA_Dashboard.pbix
+│
 ├── 06_Documentation/
 │   ├── Data_Dictionary.md
-│   └── Methodology.md
-├── Limitations.md
-├── MadeUP_FPA_Model.xlsx
-├── MadeUP_FPA_Data_Query.xlsx
-├── MadeUP_FP&A_Dashboard.pbix
-└── README.md
+│   ├── Methodology.md
+│   ├── Reconciliation.md
+│   ├── Management_Commentary.md
+│   └── Limitations.md
+│
+├── 07_Screenshots/
+│   ├── excel_fpna_model.png
+│   ├── excel_variance_analysis.png
+│   ├── powerbi_executive_dashboard.png
+│   ├── powerbi_variance_drivers.png
+│   └── sql_revenue_analysis.png
+│
+└── 08_Project_Log/
+    └── PROJECT_PROGRESS.md
 ```
 
 ## Methodology
