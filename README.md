@@ -108,6 +108,7 @@ MadeUP-FPA-Project/
 │   └── PowerBI_Exports/
 │
 ├── 03_SQL/
+│   ├── MadeUP_FPA_Query.sql
 │   ├── 01_Create_Database.sql
 │   ├── 02_Create_Tables.sql
 │   ├── 03_Load_Data.sql
