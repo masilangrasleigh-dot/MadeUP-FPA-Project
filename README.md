@@ -154,7 +154,21 @@ MadeUP-FPA-Project/
 > Budget and forecast assumptions are analyst-developed.
 
 ## Screenshots
-*(Insert Power BI dashboard screenshots and Excel model previews here)*
+
+### Excel Financial Model
+![Excel Financial Model](07_Screenshots/excel_fpna_model.png)
+
+### Excel Variance Analysis
+![Excel Variance Analysis](07_Screenshots/excel_variance_analysis.png)
+
+### Power BI Executive Dashboard
+![Power BI Executive Dashboard](07_Screenshots/powerbi_executive_dashboard.png)
+
+### Power BI Variance Analysis
+![Power BI Variance Analysis](07_Screenshots/powerbi_variance_drivers.png)
+
+### SQL Query & Results
+![SQL Revenue Analysis](07_Screenshots/sql_revenue_analysis.png)
 
 ## Skills Demonstrated
 * **Financial Planning & Analysis (FP&A)**: Budgeting, rolling forecasting, variance analysis, and scenario modeling.
