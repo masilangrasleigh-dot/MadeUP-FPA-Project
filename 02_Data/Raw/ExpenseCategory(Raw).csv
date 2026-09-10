@@ -1,0 +1,11 @@
+﻿ExpenseCategoryID ExpenseCategoryName
+----------------- ---------------------------------------------------------------------------
+A01               Payroll
+A02               Operating Programs
+A03               Technology & Software
+A04               Facilities & Travel
+
+(4 rows affected)
+
+
+Completion time: 2026-08-19T19:37:30.4283755+08:00

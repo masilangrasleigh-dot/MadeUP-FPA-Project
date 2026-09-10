@@ -1,0 +1,5 @@
+CREATE DATABASE MadeUp_FPA;
+GO
+
+USE MadeUp_FPA;
+GO

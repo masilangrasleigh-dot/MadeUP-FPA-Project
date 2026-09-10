@@ -1,0 +1,17 @@
+﻿ProductID  ProductName                                                                 BusinessUnit                                       RevenueModel              BasePrice                               COGSRate
+---------- --------------------------------------------------------------------------- -------------------------------------------------- ------------------------- --------------------------------------- ---------------------------------------
+P001       MadeUp Phone                                                                Devices                                            Unit Sales                699.00                                  0.6200
+P002       MadeUp Phone Pro                                                            Devices                                            Unit Sales                999.00                                  0.5800
+P003       MadeUp Pad                                                                  Devices                                            Unit Sales                549.00                                  0.6000
+P004       MadeUp Book                                                                 Devices                                            Unit Sales                1199.00                                 0.5500
+P005       MadeUp Watch                                                                Devices                                            Unit Sales                299.00                                  0.5000
+P006       MadeUp Cloud                                                                Cloud & Software                                   Subscription              39.00                                   0.2500
+P007       Madeup Workspace                                                            Cloud & Software                                   Subscription              24.00                                   0.2000
+P008       MadeUp Music                                                                Digital Services                                   Subscription              12.00                                   0.3000
+P009       MadeUp Video                                                                Digital Services                                   Subcription               15.00                                   0.3500
+P010       MadeUp Store                                                                Digital Services                                   Transaction               8.00                                    0.1500
+
+(10 rows affected)
+
+
+Completion time: 2026-08-19T19:36:44.7513975+08:00

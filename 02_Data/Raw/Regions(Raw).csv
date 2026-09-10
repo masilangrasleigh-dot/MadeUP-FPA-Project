@@ -1,0 +1,11 @@
+﻿RegionID   RegionName                                         RegionFactor
+---------- -------------------------------------------------- ---------------------------------------
+R01        North America                                      1.0000
+R02        Europe                                             0.8500
+R03        Asia Pacific                                       0.9500
+R04        Latin America                                      0.5500
+
+(4 rows affected)
+
+
+Completion time: 2026-08-19T19:36:58.6262533+08:00

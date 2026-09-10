@@ -1,0 +1,15 @@
+﻿DepartmentID DepartmentName                                                              BaseHeadcount BaseMonthlySalary                       BaseNonPayrollOpex
+------------ --------------------------------------------------------------------------- ------------- --------------------------------------- ---------------------------------------
+D01          Sales                                                                       700           70000.00                                8000000.00
+D02          Marketing                                                                   450           75000.00                                30000000.00
+D03          Research & Development                                                      1100          95000.00                                20000000.00
+D04          General & Administrative                                                    400           85000.00                                8000000.00
+D05          Information Technology                                                      350           90000.00                                12000000.00
+D06          Customer Operations                                                         700           65000.00                                10000000.00
+D07          Human Resources                                                             150           70000.00                                3000000.00
+D08          Facilities                                                                  200           55000.00                                8000000.00
+
+(8 rows affected)
+
+
+Completion time: 2026-08-19T19:37:14.5810510+08:00
